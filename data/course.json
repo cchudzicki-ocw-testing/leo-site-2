@@ -1,0 +1,34 @@
+{
+  "term": "Spring",
+  "year": "1999",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "1c0811c6-f20a-4fac-b2b8-b551b2c075b5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "leos-site-2"
+  },
+  "course_title": "Leo's Site 2",
+  "course_description": "This is Leo's second site.",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "2",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "leos-site-2"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "4faf6753-12b2-4189-998b-ed2bc578c405"
+}
