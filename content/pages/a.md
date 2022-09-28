@@ -13,4 +13,4 @@ Woof \(E=mc^2\) and more: \(\sum \frac{6}{n^2} = \pi^2\) catzz
 
 Math at beginning of line:
 
-\(F=ma\)
+\(F=ma\) is what Isaac said.
