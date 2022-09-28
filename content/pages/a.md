@@ -5,4 +5,4 @@ draft: false
 title: CKEditor with Math
 uid: 116ec67f-427c-4716-bb47-cbe8f644cbdc
 ---
-Woof.       \(E=mc^2\)    and morae amath:    \(f(x)= x^4\)+1
+Woof. \(E=mc^2\)
