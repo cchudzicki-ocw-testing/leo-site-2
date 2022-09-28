@@ -9,6 +9,4 @@ Woof \(E=mc^2\) and more: \(\\sum \\frac{6}{n^2} = \\pi^2\)
 
 A\(\\alpha\)B
 
-A\(\\alpha\)
-
-\(\\alpha\)B
+Ab
