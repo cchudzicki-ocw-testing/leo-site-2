@@ -5,4 +5,4 @@ draft: false
 title: new page
 uid: 7af07bf4-abc6-4c8a-b5a1-196046a7bf54
 ---
-new page \((E=mc^3)\)
+new page \(E=mc^3\)
