@@ -5,4 +5,4 @@ draft: false
 title: a
 uid: 116ec67f-427c-4716-bb47-cbe8f644cbdc
 ---
-\(a\)
+z \(E=mc^2\)
