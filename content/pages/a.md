@@ -21,7 +21,7 @@ Let's do some display equations now: \\(a \ b\\)
 
 We can even align equations…
 
-\\[\begin{align} 2+2 = & 4 \ 4 + 4 +4 + 4 = & 16 \end{align}\\]
+\\[\begin{align} 2+2 = & 4 \\\\ 4 + 4 +4 + 4 = & 16 \end{align}\\]
 
 That's fun.
 
