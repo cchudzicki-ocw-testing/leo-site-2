@@ -13,7 +13,7 @@ Math in lists:
 2. and also \\(\cos{x} = 1 - \frac{1}{2!}x^2 + \frac{1}{4!}x^4 + \cdots\\)
 3. and even \\(e^x=1 + x + \frac{1}{2!}x^2 + \frac{1}{3!}x^3 + \cdots\\) yes that too
 
-What about inequalities? \\(1 > 2\\)
+What about inequalities? \\(1 > 2\\) or \\(1 < 2\\)
 
 Let's do some display equations now:a
 
@@ -21,7 +21,7 @@ Let's do some display equations now:a
 
 We can even align equations…
 
-\\[\begin{align} 2+2 = &amp; 4 \ 4 + 4 +4 + 4 = &amp; 16 \end{align}\\]
+\\[\begin{align} 2+2 = & 4 \\ 4 + 4 +4 + 4 = & 16 \end{align}\\]
 
 That's fun.
 
