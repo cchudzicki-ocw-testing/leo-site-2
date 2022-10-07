@@ -15,13 +15,13 @@ Math in lists:
 
 What about inequalities? \\(1 > 2\\) or \\(1 < 2\\)
 
-Let's do some display equations now:a
+Let's do some display equations now: \\(a \ b\\)
 
 \\[1 + 1 = 2\\]
 
 We can even align equations…
 
-\\[\begin{align} 2+2 = & 4 \\ 4 + 4 +4 + 4 = & 16 \end{align}\\]
+\\[\begin{align} 2+2 = & 4 \ 4 + 4 +4 + 4 = & 16 \end{align}\\]
 
 That's fun.
 
