@@ -5,7 +5,9 @@ draft: false
 title: More math!
 uid: 7af07bf4-abc6-4c8a-b5a1-196046a7bf54
 ---
-Let's do some math! First, **some\\(E=mc^2\\) inli**ne \\(c = \sqrt{a^2 + b^2}\\) [mat](www.npr.org)h! And also lets start and end some lines with math \\(\cos{\frac{\pi}{3}}= \frac{1}{2}\\)
+{{% resource_link "7af07bf4-abc6-4c8a-b5a1-196046a7bf54" "More \\(A+B\\) math!" %}}
+
+Let's do some math! First, **some**\\(E=mc^2\\) **inli**ne \\(c = \sqrt{a^2 + b^2}\\) [mat](www.npr.org)h! And also lets start and end some lines with math \\(\cos{\frac{\pi}{3}}= \frac{1}{2}\\)
 
 \\(\sin{\frac{\pi}{3}}= \frac{\sqrt{3}}{2}\\)neat that is fun. OK, now let's try some display math. How about some matrices? Sure:
 
