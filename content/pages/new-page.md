@@ -5,8 +5,8 @@ draft: false
 title: More math!
 uid: 7af07bf4-abc6-4c8a-b5a1-196046a7bf54
 ---
-Wafter is  [H{{< sub "2" >}}O](www.npr.org), yum!!
+Wafter is  [H](www.npr.org){{< sub "2" >}}[O](www.npr.org), yum!! {{% resource_link "7af07bf4-abc6-4c8a-b5a1-196046a7bf54" "More math!" %}}
 
-Water is  {{% resource_link `7af07bf4-abc6-4c8a-b5a1-196046a7bf54` `H{{< sub "3" >}}O` %}}, yum!
+Water is  {{% resource_link "`7af07bf4-abc6-4c8a-b5a1-196046a7bf54`" "`H{{<</a>, yum!" "sub" %}}
 
-Code is cool too, {{% resource_link `7af07bf4-abc6-4c8a-b5a1-196046a7bf54` `code `code` co` %}}de
+{{% resource_link "`7af07bf4-abc6-4c8a-b5a1-196046a7bf54`" "Code is cool too, " "sub" %}} {{% resource_link "`7af07bf4-abc6-4c8a-b5a1-196046a7bf54`" "`code" "`code`" %}}de
